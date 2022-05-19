@@ -1,0 +1,19 @@
+{
+  "name": "mapty-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "other.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukusuccess/mapty-web-app.git"
+  },
+  "author": "Chuku Success",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chukusuccess/mapty-web-app/issues"
+  },
+  "homepage": "https://github.com/chukusuccess/mapty-web-app#readme"
+}
